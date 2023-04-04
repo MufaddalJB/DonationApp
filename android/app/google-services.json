@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971575492546",
+    "project_id": "donation-968de",
+    "storage_bucket": "donation-968de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971575492546:android:1916ff81b59ee27ed3605b",
+        "android_client_info": {
+          "package_name": "com.example.tiobu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971575492546-iaf8f7fr6mo533kvvl4p8bgv8bmmo7a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdHI6ajzVdEmoHUgO883kMX00qG8N2yPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971575492546-iaf8f7fr6mo533kvvl4p8bgv8bmmo7a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
